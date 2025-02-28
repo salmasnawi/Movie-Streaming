@@ -15,11 +15,11 @@ const App = () => {
       <MyNavbar />
       <Routes>
         <Route path="/" element={<Navigate to="/home" replace />} />
-        <Route path="/home/*" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/movie/:id" element={<MovieDetails />} />
-        <Route path="*" element={<Navigate to="/home" />} /> {/* توجيه المسارات غير المعروفة إلى /home */}
+        <Route path="*" element={<Navigate to="/home" />} />
       </Routes>
       <Footer />
     </Router>
