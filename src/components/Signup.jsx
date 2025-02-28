@@ -59,10 +59,11 @@ const Signup = () => {
         </form>
         <p className="text-center mt-3">
           Already have an account? 
-        </p>
-        <button className="btn btn-link" onClick={() => window.location.href = "#/login"}>
+          <button className="btn btn-warning" onClick={() => window.location.href = "#/login"}>
     login
   </button>
+        </p>
+  
       </div>
 
       {showModal && <Modal message={modalMessage} onClose={() => setShowModal(false)} />}

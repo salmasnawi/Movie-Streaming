@@ -59,7 +59,7 @@ const Login = () => {
         </form>
         <p className="text-center mt-3">
   Don't have an account?  
-  <button className="btn btn-link" onClick={() => window.location.href = "#/signup"}>
+  <button className="btn btn-warning" onClick={() => window.location.href = "#/signup"}>
     Sign Up
   </button>
 </p>
