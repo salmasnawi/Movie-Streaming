@@ -3,6 +3,8 @@
 ## 📌 Overview
 This is a **Movie Streaming Website** built using **React.js**, **Firebase**, and **Bootstrap**. The project allows users to browse trending movies, view detailed information, watch trailers, and manage authentication with Firebase.
 
+🔗 **Live Demo**: [Click here](https://salmasnawi.github.io/Movie-Streaming/)
+
 ## 🛠️ Technologies Used
 - **React.js** (Frontend Framework)
 - **React Router** (Navigation Management)
