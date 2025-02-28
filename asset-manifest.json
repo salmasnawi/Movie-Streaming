@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Movie-Streaming/static/css/main.088828ee.css",
-    "main.js": "/Movie-Streaming/static/js/main.80aeb788.js",
+    "main.js": "/Movie-Streaming/static/js/main.9cda7843.js",
     "static/js/453.0b30a3d5.chunk.js": "/Movie-Streaming/static/js/453.0b30a3d5.chunk.js",
     "static/media/fa-solid-900.ttf": "/Movie-Streaming/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Movie-Streaming/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -17,11 +17,11 @@
     "static/media/slick.woff": "/Movie-Streaming/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Movie-Streaming/index.html",
     "main.088828ee.css.map": "/Movie-Streaming/static/css/main.088828ee.css.map",
-    "main.80aeb788.js.map": "/Movie-Streaming/static/js/main.80aeb788.js.map",
+    "main.9cda7843.js.map": "/Movie-Streaming/static/js/main.9cda7843.js.map",
     "453.0b30a3d5.chunk.js.map": "/Movie-Streaming/static/js/453.0b30a3d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.088828ee.css",
-    "static/js/main.80aeb788.js"
+    "static/js/main.9cda7843.js"
   ]
 }
