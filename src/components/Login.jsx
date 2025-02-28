@@ -58,10 +58,12 @@ const Login = () => {
           </button>
         </form>
         <p className="text-center mt-3">
-          Don't have an account?     <button className="btn btn-link" onClick={() => navigate("/signup")}>
-            Sign Up
-          </button>
-        </p>
+  Don't have an account?  
+  <button className="btn btn-link" onClick={() => navigate("#/signup")}>
+    Sign Up
+  </button>
+</p>
+
       </div>
 
       {showModal && <Modal message={modalMessage} onClose={() => setShowModal(false)} />}
